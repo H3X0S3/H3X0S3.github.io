@@ -11,12 +11,12 @@ menu: true
   <samp>
     Hi there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" >Mahmoud Salah</a></b>.
     <br>Cyber Security Engineer<br>
-    <a >Mahmoud Sala aka H3X0S3 </a> <a> | </a> <a> Cyber Security Geek </a> <a> | </a> <a> CTF Player </a> <a> | </a> <a> eWPTX certified </a> <a> | </a> <a> eCPPTv2 certified </a> | <a> eMAPT certified</a> <a> | </a> <a> eWPT certified</a>
+    <a > Salah aka H3X0S3 </a> <a> | </a> <a> Cyber Security Geek </a> <a> | </a> <a> CTF Player </a> <a> | </a> <a> eWPTX certified </a> <a> | </a> <a> eCPPTv2 certified </a> | <a> eMAPT certified</a> <a> | </a> <a> eWPT certified</a>  <a> | </a> <a> BlackSky: Hailstorm </a>
     <br>About Blog<br>
     <a>Document what I learn</a>
     <a> | </a>
     <a>Share knowledge with others.</a>
-    <a href="mailto:H3X0S3@protonmail.com">Email</a>
+    <a href="mailto:H3X0S34BugBounty@protonmail.com">Email</a>
     <a href="https://pentesterlab.com/profile/H3X0S3">Pentesterlab</a>
     <a href="https://tryhackme.com/p/H3X0S3">TryHackMe</a>
     <a href="https://app.hackthebox.com/profile/203307"> HackTheBox</a>
