@@ -11,7 +11,7 @@ menu: true
   <samp>
     Hi there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" >Mahmoud Salah</a></b>.
     <br>Cyber Security Engineer<br>
-    <a > Salah aka H3X0S3 </a> <a> | </a> <a> Cyber Security Geek </a> <a> | </a> <a> CTF Player </a> <a> | </a> <a> eWPTX certified </a> <a> | </a> <a> eCPPTv2 certified </a> | <a> eMAPT certified</a> <a> | </a> <a> eWPT certified</a>  <a> | </a> <a> BlackSky: Hailstorm </a>
+    <a > Salah aka H3X0S3 </a> <a> | </a> <a> Cyber Security Geek </a> <a> | </a> <a> CTF Player </a> <a> | </a> <a> eWPTX certified </a> <a> | </a> <a> eCPPTv2 certified </a> | <a> eMAPT certified</a> <a> | </a> <a> eWPT certified</a>  <a> | </a> <a> BlackSky: Hailstorm </a> </a> <a> BlackSky: Cyclone </a> </a> <a> BlackSky: Blizzard </a>
     <br>About Blog<br>
     <a>Document what I learn</a>
     <a> | </a>
