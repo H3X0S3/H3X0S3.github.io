@@ -1,7 +1,7 @@
 ---  
 date: 2024-05-05 23:48:05  
 layout: post  
-title: How did I gain RCE and dump the database from the exploit Android Application  
+title: How did I gain RCE and dump the database from  Android Application  
 subtitle: MSSQL Servers RCE.  
 description: >-  
   Chain of attackes lead to remote code execution MSSQL servers  
